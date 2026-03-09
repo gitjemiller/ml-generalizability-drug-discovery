@@ -1,4 +1,4 @@
-name: drug-discovery
+name: drugdis
 channels:
   - conda-forge
   - defaults
