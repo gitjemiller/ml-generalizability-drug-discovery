@@ -46,4 +46,4 @@ jupyter lab
 ```
 
 ## Status
-🔬 In progress — Week 1 (March 2025)
+🔬 Complete — Week 1 (March 2025)
