@@ -1,0 +1,5 @@
+split,model,test_rmse_mean,test_rmse_sd,train_rmse_mean,gap_mean
+random,RandomForest,1.191,0.092,0.45,0.741
+random,XGBoost,1.181,0.136,0.292,0.889
+scaffold,RandomForest,2.04,0.069,0.42,1.62
+scaffold,XGBoost,1.901,0.131,0.267,1.634

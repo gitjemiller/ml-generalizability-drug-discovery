@@ -28,11 +28,10 @@ structurally similar to training data. This is our performance ceiling.
 Scaffold and cluster splits will stress-test whether this holds.
 
 **What confused me:**
-Honestly, jumping back into the computational chem world and taking it up a notch is a bit jarring. Some things are like riding a bike, others I don't remember or are completely new. Morgan Fingerprints make sense especially given my background with Dr. DeYonker and SMILES I remember from undergrad. Adding the ML component has brought an interesting touch. RMSE is how much your model is off normally and is different from R^2.
+Honestly, jumping back into the computational chem world and taking it up a notch is a bit jarring. Some things are like riding a bike, others I don't remember or are completely new. Morgan Fingerprints make sense especially given my background with Dr. DeYonker and SMILES I remember from undergrad. Adding the ML component has brought an interesting touch. RMSE is how much your model is off normally and is different from R^2. I should also note that the RMSE was normalized by DeepChem.
 
 **Open questions:**
 What's the difference between Test and Training RMSE?
-What is log S?
 I'd love to learn more about the RandomForestRegressor
 How would the 80/20 split we talked about affect the RMSE and training accuracy?
 

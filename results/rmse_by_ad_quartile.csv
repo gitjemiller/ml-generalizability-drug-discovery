@@ -1,0 +1,9 @@
+split,ad_quartile,rmse,n
+random,Q1 (least similar),1.3750396763969817,130.0
+random,Q2,1.458607872317186,164.0
+random,Q3,1.1502988031495263,202.0
+random,Q4 (most similar),0.9690016719635471,319.0
+scaffold,Q1 (least similar),1.5288363092612622,330.0
+scaffold,Q2,2.1586410017426303,296.0
+scaffold,Q3,2.414305440637626,256.0
+scaffold,Q4 (most similar),2.2312303325593015,140.0
